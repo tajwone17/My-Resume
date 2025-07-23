@@ -9,6 +9,7 @@ A responsive and modern personal resume website built with HTML, CSS, and design
 ## 📋 About
 
 This is a personal resume website for Jakaria Chowdhury Tajwone, featuring:
+
 - Clean and professional design
 - Responsive layout that works on all devices
 - Modern styling with CSS
@@ -55,6 +56,7 @@ My Resume/
 ## 📱 Responsive Design
 
 The resume is fully responsive and adapts to:
+
 - Desktop computers
 - Tablets
 - Mobile phones
@@ -71,4 +73,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-*Last updated: July 2025*
+_Last updated: July 2025_
