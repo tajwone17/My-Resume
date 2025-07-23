@@ -2,6 +2,10 @@
 
 A responsive and modern personal resume website built with HTML, CSS, and designed to showcase professional skills and experience.
 
+## 🌐 Live Demo
+
+**[View Live Resume](https://tajwone17.github.io/My-Resume/)**
+
 ## 🖼️ Preview
 
 ![Resume Screenshot](Screesnshot/image.png)
